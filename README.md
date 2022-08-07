@@ -1,6 +1,8 @@
 # Training Custom CNN model for number classification
 
-Please give me star if this project was helpful to your startup project. :)
+This repository includes training code for this project https://github.com/Supernova1024/OCR-PDF-to-CSV-Table-by-CNN-
+
+However, it can be used individually on different projects for number classification.
 
 # Installing
 - Download this repository
